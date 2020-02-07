@@ -19,7 +19,7 @@ header {
     width: 100%; /* largo barra de menu*/
     height: 75px; /*anchura barra menu*/
     background: #0C0CD2;/* barra menu*/
-    color: #fff;
+    color: red;
     
     position: fixed;
     top: 0;
